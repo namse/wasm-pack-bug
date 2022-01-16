@@ -27,6 +27,6 @@ mod tests {
 
     #[wasm_bindgen_test]
     fn test_it() {
-        assert_eq!(1 + 1, 2);
+        assert_eq!(1 + 1, 3);
     }
 }
